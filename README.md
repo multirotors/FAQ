@@ -4,10 +4,11 @@ A curated list of awesome resources about everything that related to rotorcrafts
 a multicopter helicopters that are lifted and propelled with more than two rotors.
 
 ## IRC
- - [RC IRC Channel](http://chat.efnet.org/) - RC channel about everything Radio controlled, [irc.efnet.org](irc.efnet.org) for IRC clients.
+ - [RC IRC Channel](http://chat.efnet.org/) - #rc RC channel about everything Radio controlled, [irc.efnet.org](irc.efnet.org) for IRC clients.
+ - [Multirotors Freenode Channel](https://webchat.freenode.net) - #multirotors Freenode channel about multirotors, [irc.freenode.org](irc.freenode.org) for IRC clients.
 
 ## Forums
- - [RCGROUPS](http://www.rcgroups.com/forums/index.php) - Large RC related forum 
+ - [RCGROUPS](http://www.rcgroups.com/forums/index.php) - Large RC related forum
 
 ## Software and Firmware
  - [Multiwii](http://www.multiwii.com/) - MultiWii is a general purpose software to control a multirotor RC model.
@@ -27,7 +28,7 @@ a multicopter helicopters that are lifted and propelled with more than two rotor
 ## Radios
   - [OpenTX Project](https://github.com/opentx/opentx) - open source firmware for RC radio transmitters.
   - [Taranis Radio](http://www.frsky-rc.com/product/product.php?cate_id=20&cate_name=Radios) - Taranis digital telemetry system, working on OpenTX firmware.
-  -
+
 ## ESC
  - [BLHeli](https://github.com/bitdump/BLHeli) - BLHeli assembly code for sensorless brushless motor electronic speed control.
  - [SimonK ESC firmware](https://github.com/sim-/tgy) - Open Source Firmware for ATmega-based Brushless ESCs.
@@ -39,7 +40,7 @@ a multicopter helicopters that are lifted and propelled with more than two rotor
 
 ##Manufacturers
  - [DJI](http://www.dji.com/) - Chinese company, that sold and manufactures RTF copters, controllers, and other parts.
- - [FrSKY](http://www.frsky-rc.com) - Taranis manufacturer and other radio transmitter and receivers manufacturer.
+ - [FrSKY](http://www.frsky-rc.com/) - Taranis manufacturer and other radio transmitter and receivers manufacturer.
  - [RadioLink](http://www.radiolink.com.cn/doce/) - Chinese transmitters/receivers manufacturer.
  - [Hobbyking](http://www.hobbyking.com) - one of the largest RC stores.
  - [Hubsan](http://www.hubsan.com/) - Quadcopter manufacturer.
